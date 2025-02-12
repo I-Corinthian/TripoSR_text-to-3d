@@ -66,6 +66,12 @@ pip uninstall torchmcubes
 pip install git+https://github.com/tatsy/torchmcubes.git
 ```
 
+For 'text-to-3d' run:
+
+```sh
+python text_2_3d.py
+```
+
 ## Citation
 ```BibTeX
 @article{TripoSR2024,
